@@ -1,11 +1,12 @@
 {
   "name": "powershell-to-console",
-  "version": "0.0.2",
-  "description": "Run powershell scripts that output in the nodejs console",
+  "version": "0.0.3",
+  "description": "A JS module that runs spawns a powershell instance and runs a PS cmdlet or script.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/Invertee/powershell-to-console",
   "keywords": [
     "\"powershell\"",
     "\"scripting\""
