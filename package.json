@@ -1,0 +1,15 @@
+{
+  "name": "powershell-to-console",
+  "version": "0.0.2",
+  "description": "Run powershell scripts that output in the nodejs console",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"powershell\"",
+    "\"scripting\""
+  ],
+  "author": "Sam Petch",
+  "license": "MIT"
+}
